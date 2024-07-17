@@ -2,7 +2,7 @@
 # ✉🌐 FORO REST
 This is a programming challange. I developed a STATELESS REST API that provides forum functionality. During this project, I learned how manipulate HTTP requests and how they manipulate a database. This project is part of my training at [@AluraLatam](https://br.linkedin.com/company/alura-latam) - Java y Spring Boot - ONE G6.
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/D-Chevez/ForumRest/blob/develop/src/main/resources/images/aluraoracle.png)
 
 
 ## 🎯 Objetive
